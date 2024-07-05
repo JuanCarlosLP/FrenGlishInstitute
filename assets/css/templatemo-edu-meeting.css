@@ -987,7 +987,7 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content .date h6 {
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
   color: #a12c2f;
@@ -996,7 +996,7 @@ section.upcoming-meetings .categories .main-button-red a {
 .meeting-item .down-content .date span {
   display: block;
   color: #1f272b;
-  font-size: 22px;
+  font-size: 13px;
   margin-top: 7px;
 }
 
