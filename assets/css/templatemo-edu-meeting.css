@@ -1229,7 +1229,7 @@ section.our-facts .video {
   background-image: url(../images/video-item-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: auto;
   border-radius: 20px;
 }
 
